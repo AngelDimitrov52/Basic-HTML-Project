@@ -1,0 +1,16 @@
+table,
+td,
+tr,
+th {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 5px;
+}
+
+body {
+    font-family: 'Helvetica', sans-serif;
+}
